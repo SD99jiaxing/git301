@@ -18,6 +18,10 @@ This repository will be used for an in-class assignment.
 - Adam
 - Saul
 
+### Delta
+- Connor
+- Jiaxing
+
 ## Tasks
 
 ### Alpha
